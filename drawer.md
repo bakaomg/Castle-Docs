@@ -82,7 +82,7 @@
    },{
     "name": "自定子列表2",
     "link": "http://domain.com/"
-   }{
+   },{
     "name": "以此类推。。",
     "link": "http://domain.com/"
    }]
@@ -100,7 +100,7 @@
 
 ## Rss订阅按钮
 ![](_media/6.png)
-- `"type"` 类型 `6` 为分割线。
+- `"type"` 类型 `6` 为RSS订阅按钮。
 ```json
 {
    "type":"6"
