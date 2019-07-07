@@ -10,6 +10,7 @@
 - 主题设置
  - [语言](/lang)
  - [主题](/theme)
+ - [代码高亮](/highlight)
  - [静态资源](/static-resource)
  - [封面图源](/rand-cover)
  - [Gravatar](/gravatar)
