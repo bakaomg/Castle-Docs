@@ -1,6 +1,11 @@
 - 开始使用
  - [安装主题](/setup)
  - [常见问题](/problem)
+ 
+- 独立页面
+ - [追番](/page-bangumi)
+ - [友链](/page-links)
+ - [标签](/page-tags)
 
 - 主题设置
  - [语言](/lang)

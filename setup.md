@@ -8,4 +8,4 @@
 
 !> 友链功能需安装 [links](http://www.imhan.com/archives/typecho_links_20141214/) 才能正常使用。
 
-<small> 文档可能很乱 看不懂请直接问我quq... </small>
+<small> 文档可能很乱 看不懂请直接问我quq... <br> 最后更新时间：2019/07/07</small>

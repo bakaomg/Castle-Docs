@@ -5,6 +5,8 @@
 - 请先安装 [links](http://www.imhan.com/archives/typecho_links_20141214/) 插件。
 - 确保新建独立页面选择了 `自定义模板` 为 `友链页`。
 
+!> 具体参考 [友链](page-links)
+
 ## 部分 Js 失效
 - 在主题设置中填写相应的重载函数 详见[Pjax重载函数](pjax-reload)
 

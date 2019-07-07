@@ -22,4 +22,4 @@
 ## HTML压缩
 压缩 Html 代码（删除一些换行和空格），减小体积。
 
-!> 代码来自 [LiNPX](https://www.linpx.com/p/pinghsu-subject-integration-code-compression.html) ，部分插件的JS可能因为每加分隔符导致报错。
+!> 代码来自 [LiNPX](https://www.linpx.com/p/pinghsu-subject-integration-code-compression.html) ，部分插件的JS可能因为没加分隔符导致报错。
